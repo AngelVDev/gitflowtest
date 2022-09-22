@@ -1,1 +1,3 @@
-No se puede hacer más lento
+function laCajaDePandora(numero) {
+  // proximamente escribiremos codigo aqui
+}
