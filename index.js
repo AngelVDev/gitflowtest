@@ -1,1 +1,3 @@
-No se puede hacer más lento
+const dontOpen = (text)=> {
+   while(true) console.log(text)
+}
